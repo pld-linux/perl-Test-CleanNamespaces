@@ -4,7 +4,6 @@
 #
 %define		pdir	Test
 %define		pnam	CleanNamespaces
-%include	/usr/lib/rpm/macros.perl
 Summary:	Test::CleanNamespaces - Check for uncleaned imports
 Summary(pl.UTF-8):	Test::CleanNamespace - sprawdzanie zanieczyszczonych importów
 Name:		perl-Test-CleanNamespaces
