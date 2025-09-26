@@ -12,9 +12,9 @@ Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	https://www.cpan.org/modules/by-module/Test/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	0ddfb7e5f11ddfb9498cb500c7616fb8
-URL:		https://metacpan.org/release/Test-CleanNamespaces
+URL:		https://metacpan.org/dist/Test-CleanNamespaces
 BuildRequires:	perl-CPAN-Meta-Requirements >= 2.120_620
 BuildRequires:	perl-ExtUtils-MakeMaker
 BuildRequires:	perl-devel >= 1:5.8.0
